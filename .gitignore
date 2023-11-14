@@ -1,0 +1,16 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+yarn-error.log
+
+# Hardhat files
+cache
+artifacts
+
+.env.alfajores
+.env.mainnet
+
+.idea
